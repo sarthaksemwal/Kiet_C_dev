@@ -8,5 +8,6 @@ int main() {
     sum = a + b;
     //printing the output
     printf("sum is: %d\n", sum);
+    //added a return zero because we have used int main and  its expected to return an integer value as an exit status to the operating system 
     return 0;
 }
