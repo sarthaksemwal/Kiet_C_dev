@@ -62,6 +62,4 @@ This project is licensed under the MIT License - see the [LICENSE](/LICENSE) fil
 
 Happy coding!
 
-[Your Name]
-[Contact Information]
-[Optional: Personal Website or LinkedIn Profile]
+
