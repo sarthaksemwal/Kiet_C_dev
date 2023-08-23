@@ -11,6 +11,5 @@ int main() {
     printf("The character is\n");
     //using the putchar to display the character
     putchar(c);
-    //test comment
     return 0;
 }
