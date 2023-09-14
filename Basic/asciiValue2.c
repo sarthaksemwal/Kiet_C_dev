@@ -8,6 +8,6 @@ int main() {
         printf("%c\n",i);
         
     }
-   ;
+   
     return 0;
 }
