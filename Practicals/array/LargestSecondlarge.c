@@ -37,8 +37,13 @@ for(j=0;j<n;j++){
     printf("%d", secondmax);
 
 }
-printf("The second largest element is %d",secondmax);
+printf("\nThe second largest element is %d",secondmax);
 printf("The reverse of the array is :");
+for(i=n-1;i>=0;i--){
+    printf("%d",arr[i]);
+
+
+}
 
 
 
