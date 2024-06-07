@@ -5,14 +5,6 @@
 
 Welcome to my C Programming Practice repository! This repository is dedicated to honing my skills in the C programming language and strengthening my foundation in computer programming. Here, you'll find a collection of C programs, exercises, and projects that I'm working on to improve my understanding of programming concepts and problem-solving techniques.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Programs](#programs)
-- [Projects](#projects)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
